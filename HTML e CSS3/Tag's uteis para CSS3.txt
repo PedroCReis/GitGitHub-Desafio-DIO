@@ -1,0 +1,19 @@
+LINK CSS COM O HTML:
+
+<link rel="stylesheet" href="style.css">
+
+
+
+font-size (tamanho da fonte)
+
+font-style (estilo da fonte)
+
+background (cor de fundo)
+
+padding (espaçamento entre a borda e o conteudo)
+
+border (borda)
+      -top, -right, -bottom, -left
+      radius: 10px, 50%, 10% 20% (arredondar os cantos do elemento)
+
+margin (margem)

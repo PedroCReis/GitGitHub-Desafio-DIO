@@ -1,0 +1,31 @@
+<section> Sessao generica
+
+<header> Cabeçalho da pagina
+
+<article> conteudo relevante
+
+<aside> Conteudo relacionado ao conteudo principal da pagina
+
+<footer> Rodapé da pagina
+
+<h1><h6> Titulos da pagina
+
+<p> Conteudo do artigo (paragrafo)
+
+<a> Tag ancora para linkar (links, email, telefone)
+    href= links, email
+    target=''_blank'' (abrir link em nova aba)
+
+<img> Imagem
+     <img src="img/avatar.jpg">
+     <img alt="Foto de Pedro">
+
+<ul> Representa uma lista com a ordem sem importancia
+
+<ol> Representa lista com uma ordem significativa
+
+<li> Itens da lista
+
+
+
+

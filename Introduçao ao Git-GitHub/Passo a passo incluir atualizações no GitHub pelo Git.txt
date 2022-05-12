@@ -1,0 +1,5 @@
+Primeiramente devemos puxar os arquivos que estao no GitHub para nossa maquina local usando o comando (git pull).
+Apos ser feito isso, vamos dar um "git status" e visualizar que existe alteraçoes que nao foram atualizadas no nosso repositorio.
+Em seguida adicionamos esses arquivos usando o "git add *", agora visualizamos novamente e o status está OK.
+Para comitar esses arquivos usamos o "git commit -m "comentario".
+E subimos novamente nosso repositorio atualizado para o GitHub com o comando "git push origin main".

@@ -1,0 +1,13 @@
+Link para download do Git: https://git-scm.com/download/win
+"O GitBash é um termino para otimizar o uso do Git"
+
+Comandos úteis:
+
+Setar Usuario: git config --global user.name "Pedro"
+Setar Email: git config --global user.email "pedroaf....@gmail.com''
+Listar configurações: git config --list
+
+Criar novo repositorio: git init
+Verificar estado dos arquivos: git status
+Adicionar todos os arquivos: git add *
+Comitar um arquivo: git commit meu_arquivo.txt
